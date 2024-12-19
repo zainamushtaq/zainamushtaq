@@ -19,15 +19,15 @@ I'm a **Computer Science undergraduate** with a passion for **software developme
 
 ## 🚀 Key Projects  
 - **Google AI Studio - Health and Wellness Trends**  
-  Develop, train, test, and evaluate linear regression and random forest machine learning models to predict influenza outbreaks by analyzing Google search trends related to the flu
-  Achieved an R2 of 0.8 and RMSE of 3.58 on test data
+  - Develop, train, test, and evaluate linear regression and random forest machine learning models to predict influenza outbreaks by analyzing Google search trends related to the flu
+  - Achieved an R2 of 0.8 and RMSE of 3.58 on test data
 
 - **Capstone - Foxhole Lounge**  
-  A Flutter-based social media app targeted towards veterans.
+  - A Flutter-based social media app targeted towards veterans.
 - **360 Care Medical Office Management System Application**
-  Created a fully functional doctor's office application in Java using JavaFX and CSS for the UI for patient, nurse, and doctor views
-  Implemented functionalities for updating patient information, medical data, and visit details along with a messaging database, ensuring seamless database integration and updating patient files in real-time
-  Took on the role of project manager, utilizing agile methodologies to enhance team productivity, streamline communication, and ensure timely project delivery
+  - Created a fully functional doctor's office application in Java using JavaFX and CSS for the UI for patient, nurse, and doctor views
+  - Implemented functionalities for updating patient information, medical data, and visit details along with a messaging database, ensuring seamless database integration and updating patient files in real-time
+  - Took on the role of project manager, utilizing agile methodologies to enhance team productivity, streamline communication, and ensure timely project delivery
 
 ## 📫 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/zainamushtaq)  
