@@ -24,6 +24,7 @@ I'm a **Computer Science undergraduate** with a passion for **software developme
 
 **Capstone - Foxhole Lounge**  
   - A Flutter-based social media app targeted towards veterans.
+
 **360 Care Medical Office Management System Application**
   - Created a fully functional doctor's office application in Java using JavaFX and CSS for the UI for patient, nurse, and doctor views
   - Implemented functionalities for updating patient information, medical data, and visit details along with a messaging database, ensuring seamless database integration and updating patient files in real-time
