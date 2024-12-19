@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### 🎓 Senior at Arizona State University 
+#### majoring in Computer Science
+#### minor in Data Science
+
 <!--
 **zainamushtaq/zainamushtaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
